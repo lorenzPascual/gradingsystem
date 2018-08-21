@@ -1,0 +1,5 @@
+c:\users\lorenz\documents\visual studio 2015\Projects\GradingSystem\GradingSystem.Core\bin\Debug\GradingSystem.Core.dll
+c:\users\lorenz\documents\visual studio 2015\Projects\GradingSystem\GradingSystem.Core\bin\Debug\GradingSystem.Core.pdb
+c:\users\lorenz\documents\visual studio 2015\Projects\GradingSystem\GradingSystem.Core\obj\Debug\GradingSystem.Core.csprojResolveAssemblyReference.cache
+c:\users\lorenz\documents\visual studio 2015\Projects\GradingSystem\GradingSystem.Core\obj\Debug\GradingSystem.Core.dll
+c:\users\lorenz\documents\visual studio 2015\Projects\GradingSystem\GradingSystem.Core\obj\Debug\GradingSystem.Core.pdb
